@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace c_sharp_learning
 {
-    public class Class1
+    public class Test
     {
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            Console.ReadKey();
         }
     }
 }

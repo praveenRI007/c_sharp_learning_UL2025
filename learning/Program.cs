@@ -1,11 +1,15 @@
 ﻿using System;
-using c_sharp_learning; // Namespace from your class library
+using c_sharp_learning;
+using Topics.ControlFlowStatements;
 
 class Program
 {
     static void Main()
     {
-        Class1 myClass = new Class1();
+        Test myClass = new Test();
         Console.WriteLine("Testing library!");
+        // Execute ReadingWritingConsole Demo
+        IfStatement.demo();
+        Console.ReadKey();
     }
 }

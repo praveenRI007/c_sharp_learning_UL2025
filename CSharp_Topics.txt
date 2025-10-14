@@ -1,0 +1,158 @@
+1. Introduction & Basics
+
+1.1 Introduction
+1.2 Reading and writing to a console
+1.3 Built-in types
+1.4 String type in C#
+1.5 Common operators in C#
+1.6 Nullable types
+1.7 Data type conversion
+1.8 Arrays in C#
+1.9 Comments in C#
+
+2. Control Flow Statements
+
+2.1 If statement in C#
+2.2 Switch statement in C#
+2.3 Switch statement in C# (continued)
+2.4 While loop in C#
+2.5 Do while loop in C#
+2.6 For and foreach loops in C#
+
+3. Methods & Parameters
+
+3.1 Methods in C#
+3.2 Method parameters
+3.3 Namespaces
+
+4. Object-Oriented Programming (OOP)
+
+4.1 Introduction to classes
+4.2 Static and instance class members
+4.3 Inheritance in C#
+4.4 Method hiding
+4.5 Polymorphism
+4.6 Difference between method overriding and method hiding
+4.7 Method overloading
+
+5. Properties, Structs & Interfaces
+
+5.1 Why Properties
+5.2 Properties in C#
+5.3 Structs in C#
+5.4 Difference between classes and structs
+5.5 Interfaces in C#
+5.6 Explicit interface implementation
+5.7 Abstract classes in C#
+5.8 Difference between abstract classes and interfaces
+5.9 Problems of multiple class inheritance
+5.10 Multiple class inheritance using interfaces
+
+6. Delegates & Events
+
+6.1 Delegates in C#
+6.2 Delegates usage in C#
+6.3 Delegates usage (continued)
+6.4 Multicast delegates in C#
+
+7. Exception Handling
+
+7.1 Exception handling in C#
+7.2 Inner exceptions in C#
+7.3 Custom exceptions in C#
+7.4 Exception handling abuse
+7.5 Preventing exception handling abuse
+
+8. Enums & Type Members
+
+8.1 Why Enums
+8.2 Enums Example
+8.3 Enums in C#
+8.4 Difference between Types and Type Members
+
+9. Access Modifiers & Attributes
+
+9.1 Access modifiers in C#
+9.2 Internal and protected internal access modifiers
+9.3 Access modifiers for types
+9.4 Attributes in C#
+
+10. Reflection
+
+10.1 Reflection in C#
+10.2 Reflection example
+10.3 Late binding using reflection
+
+11. Generics
+
+11.1 Generics in C#
+
+12. Object Methods & String Handling
+
+12.1 Why override ToString()
+12.2 Why override Equals()
+12.3 Difference between Convert.ToString() and ToString()
+12.4 Difference between String and StringBuilder
+
+13. Partial Types & Indexers
+
+13.1 Partial classes in C#
+13.2 Creating partial classes in C#
+13.3 Partial methods in C#
+13.4 How and where indexers are used in .NET
+13.5 Indexers in C#
+13.6 Overloading indexers in C#
+
+14. Optional Parameters
+
+14.1 Optional parameters in C#
+14.2 Making method parameters optional using method overloading
+14.3 Making method parameters optional by specifying parameter defaults
+14.4 Making method parameters optional using OptionalAttribute
+
+15. Visual Studio Features
+
+15.1 Code snippets in Visual Studio
+
+16. Collections
+
+16.1 Dictionary in C#
+16.2 Dictionary in C# (continued)
+16.3 List collection class in C#
+16.4 List collection class (continued)
+16.5 Working with generic list class and ranges
+16.6 Sorting a list of simple types
+16.7 Sorting a list of complex types
+16.8 Sorting a list of complex types using Comparison delegate
+16.9 Useful methods of List collection class
+16.10 When to use a dictionary over a list
+16.11 Generic Queue collection class
+16.12 Generic Stack collection class
+16.13 Real-time example of Queue collection class
+16.14 Real-time example of Stack collection class
+
+17. Multithreading
+
+17.1 Multithreading in C#
+17.2 Advantages and disadvantages of multithreading
+17.3 ThreadStart delegate
+17.4 ParameterizedThreadStart delegate
+17.5 Passing data to the Thread function in a type-safe manner
+17.6 Retrieving data from a Thread function using callback method
+17.7 Thread Join and Thread IsAlive functions
+17.8 Protecting shared resources from concurrent access
+17.9 Difference between Monitor and lock
+17.10 Deadlock in a multithreaded program
+17.11 Resolving deadlocks in a multithreaded program
+17.12 Performance of a multithreaded program
+
+18. Anonymous Methods, Lambdas & Delegates
+
+18.1 Anonymous methods in C#
+18.2 Lambda expressions in C#
+18.3 Func delegate in C#
+
+19. Asynchronous Programming
+
+19.1 Async and await in C# (example)
+19.2 Waiting for thread to finish without blocking
