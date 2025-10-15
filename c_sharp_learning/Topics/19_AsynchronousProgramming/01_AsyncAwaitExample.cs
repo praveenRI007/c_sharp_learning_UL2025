@@ -3,6 +3,12 @@ namespace Topics.AsynchronousProgramming
 {
     public class AsyncAwaitExample
     {
-        // Add example code here
+        // Demonstrates an asynchronous method using async and await
+        public async Task DemoAsync()
+        {
+            Console.WriteLine("Starting async operation...");
+            await Task.Delay(1000); // Simulates an asynchronous operation
+            Console.WriteLine("Async operation completed.");
+        }
     }
 }

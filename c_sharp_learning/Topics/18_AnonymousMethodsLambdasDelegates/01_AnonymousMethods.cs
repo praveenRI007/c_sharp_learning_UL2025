@@ -3,6 +3,11 @@ namespace Topics.AnonymousMethodsLambdasDelegates
 {
     public class AnonymousMethods
     {
-        // Add example code here
+        public void Demo()
+        {
+            // Anonymous method assigned to a delegate
+            System.Action greet = delegate { System.Console.WriteLine("Hello from anonymous method!"); };
+            greet(); // Output: Hello from anonymous method!
+        }
     }
 }
